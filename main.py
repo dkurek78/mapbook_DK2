@@ -1,5 +1,6 @@
 from utils.model import users
-from utils.controller import get_user_info, add_user
+from utils.controller import get_user_info, add_user, remove_user
+
 
 
 def main():
